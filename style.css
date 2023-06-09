@@ -1,0 +1,39 @@
+#botonhablar {
+    border-radius: 50px;
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    font-family: 'Fredoka' ;
+    font-weight: 700;
+    background-color: rgb(100, 216, 237);
+
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Fredoka;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: Fredoka;
+    color: cadetblue;
+    font-weight: 500;
+    text-shadow: 2px 2px 5px rgb(41, 111, 134);
+    -webkit-text-stroke: 1px black;
+
+}
+
+canvas {
+    border-radius: 15px;
+    border-width: 5px;
+    background-color: rgb(167, 213, 235);
+    border-color: black;
+    border-style: ridge;
+}
+
+span {
+    font-size: 18px;
+    color:red;
+}
+
